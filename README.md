@@ -84,7 +84,6 @@ GPT2Model(units=768,
 git clone https://github.com/SKT-AI/KoGPT2.git
 cd KoGPT2
 pip install -r requirements.txt
-pip install .
 ```
 
 
